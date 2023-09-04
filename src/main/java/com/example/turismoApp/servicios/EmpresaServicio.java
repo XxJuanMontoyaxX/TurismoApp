@@ -44,7 +44,7 @@ public class EmpresaServicio {
                 throw new Exception("Empresa no encontrada");
             }
 
-            //rutina por si la encontr
+            //rutina por si la encontro
             // //1.convierto el opcional en la entidad respectiva
             Empresa empresaQueExiste = empresaEncontrada.get();
 
